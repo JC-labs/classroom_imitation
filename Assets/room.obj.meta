@@ -674,6 +674,7 @@ ModelImporter:
     101332: saucer
     101334: spoon
     101336: Zylinder01
+    101338: default
     400000: '?'
     400002: ?01
     400004: ?02
@@ -1343,6 +1344,7 @@ ModelImporter:
     401332: saucer
     401334: spoon
     401336: Zylinder01
+    401338: default
     2100000: _Mat
     2100002: _01Mat
     2100004: _02Mat
@@ -2011,6 +2013,11 @@ ModelImporter:
     2101330: saucerMat
     2101332: spoonMat
     2101334: Zylinder01Mat
+    2101336: None
+    2101338: wire_115115115
+    2101340: wire_000000000
+    2101342: wire_214229166
+    2101344: wire_086086086
     2300000: '?'
     2300002: ?01
     2300004: ?02
@@ -2679,6 +2686,7 @@ ModelImporter:
     2301330: saucer
     2301332: spoon
     2301334: Zylinder01
+    2301336: default
     3300000: '?'
     3300002: ?01
     3300004: ?02
@@ -3347,6 +3355,7 @@ ModelImporter:
     3301330: saucer
     3301332: spoon
     3301334: Zylinder01
+    3301336: default
     4300000: '?'
     4300002: ?01
     4300004: ?02
@@ -4015,6 +4024,7 @@ ModelImporter:
     4301330: saucer
     4301332: spoon
     4301334: Zylinder01
+    4301336: default
   externalObjects: {}
   materials:
     importMaterials: 1
