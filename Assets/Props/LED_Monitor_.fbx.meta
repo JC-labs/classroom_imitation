@@ -1,42 +1,44 @@
 fileFormatVersion: 2
-guid: 36656b17fe029fc44a2562e195f2630d
-timeCreated: 1523962424
+guid: 9fb4cec38d2432c45a993aa5b209e8fc
+timeCreated: 1523962723
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: monitor1_pCube4
-    100004: monitor1_pCylinder1
-    100006: monitor1_polySurface203
-    100008: monitor1_polySurface5
-    100010: polySurface4_monitor1
+    100002: pCube4
+    100004: pCylinder1
+    100006: polySurface203
+    100008: polySurface4
+    100010: polySurface5
     400000: //RootNode
-    400002: monitor1_pCube4
-    400004: monitor1_pCylinder1
-    400006: monitor1_polySurface203
-    400008: monitor1_polySurface5
-    400010: polySurface4_monitor1
-    2100000: monitor1_pCube4Mat
-    2100002: monitor1_pCylinder1Mat
-    2100004: monitor1_polySurface203Mat
-    2100006: monitor1_polySurface5Mat
-    2100008: polySurface4_monitor1Mat
-    2300000: monitor1_pCube4
-    2300002: monitor1_pCylinder1
-    2300004: monitor1_polySurface203
-    2300006: monitor1_polySurface5
-    2300008: polySurface4_monitor1
-    3300000: monitor1_pCube4
-    3300002: monitor1_pCylinder1
-    3300004: monitor1_polySurface203
-    3300006: monitor1_polySurface5
-    3300008: polySurface4_monitor1
-    4300000: monitor1_pCube4
-    4300002: monitor1_pCylinder1
-    4300004: monitor1_polySurface203
-    4300006: monitor1_polySurface5
-    4300008: polySurface4_monitor1
+    400002: pCube4
+    400004: pCylinder1
+    400006: polySurface203
+    400008: polySurface4
+    400010: polySurface5
+    2100000: lambert76
+    2100002: lambert74
+    2100004: lambert5
+    2100006: lambert1
+    2100008: pasted__pasted__lambert73
+    2100010: pasted__pasted__pasted__blinn6
+    2300000: pCube4
+    2300002: pCylinder1
+    2300004: polySurface203
+    2300006: polySurface4
+    2300008: polySurface5
+    3300000: pCube4
+    3300002: pCylinder1
+    3300004: polySurface203
+    3300006: polySurface4
+    3300008: polySurface5
+    4300000: polySurface4
+    4300002: polySurface5
+    4300004: pCube4
+    4300006: pCylinder1
+    4300008: polySurface203
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -111,7 +113,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
