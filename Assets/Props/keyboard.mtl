@@ -1,0 +1,18 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.04.2018 13:32:03
+
+newmtl Plastic
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0745 0.0745 0.0745
+	Kd 0.0745 0.0745 0.0745
+	Ks 0.9031 0.9031 0.9031
+	Ke 0.0000 0.0000 0.0000
+	map_Ka S:\Downloads\Browser\b6a3be93014242ce492d536eb3536d3b\DIRT BL.JPG
+	map_Kd S:\Downloads\Browser\b6a3be93014242ce492d536eb3536d3b\DIRT BL.JPG
+	map_bump S:\Downloads\Browser\b6a3be93014242ce492d536eb3536d3b\DIRT BL.JPG
+	bump S:\Downloads\Browser\b6a3be93014242ce492d536eb3536d3b\DIRT BL.JPG
